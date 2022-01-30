@@ -27,16 +27,6 @@ public class Bus {
     }
 
 
-//    public void addPassenger(Passenger passenger) {
-//        for (int i = 0; i < passengers.size(); i ++){
-//            if (passengers.size() >= seatNumbers){
-//                passengers.add(passenger);
-//            }else {
-//                System.out.println("There is no seat on the bus. ");
-//            }
-//        }
-//    }
-
 
     public void searchByName(String name){
         for (Passenger passenger:passengers) {
