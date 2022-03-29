@@ -5,7 +5,7 @@ vid_sporta varchar(50) not NULL
 
 insert into vid_sporta values
 (1, 'Football'),
-(2, 'Volleyboll'),
+(2, 'Volleyball'),
 (3, 'Basketball');
 
 
